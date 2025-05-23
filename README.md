@@ -113,7 +113,7 @@ This page summarizes findings and provides a strategic viewpoint. It includes:
 
 - 📄 Dashboard PDF Export: [`global_terrorism_dashboard.pdf`](./global_terrorism_dashboard.pdf)
 - 📽️ PowerPoint Summary: [`Global_Terrorism_Dashboard_Presentation.pptx`](./Global_Terrorism_Dashboard_Presentation.pptx)
-- 🗂️ Power BI File (`.pbix`) – *Available upon request*
+- 🗂️ Power BI File (`.pbix`) –[`global_terrorism_dashboard.pbix`](./global_terrorism_dashboard.pbix)
 
 ---
 

@@ -69,6 +69,8 @@ The following visualizations help analyze these numbers:
 
 Users can slice the data by **Region**, **Country**, and **Year** using slicers.
 
+   ![Image](https://github.com/user-attachments/assets/31b9242b-2e66-4dd6-8a27-995126f208fe)
+
 ---
 
 ### 🔹 Page 2 – Key Insights & Strategic Focus
@@ -92,6 +94,7 @@ This page summarizes findings and provides a strategic viewpoint. It includes:
 - Stacked column chart for **casualties over time** (killed vs. wounded).
 - Bar chart of **total casualties by country**.
 
+  ![Image](https://github.com/user-attachments/assets/31b9242b-2e66-4dd6-8a27-995126f208fe)
 ---
 
 ## ✅ Features

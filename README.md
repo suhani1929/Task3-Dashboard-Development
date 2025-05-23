@@ -1,4 +1,17 @@
 # Task3-Dashboard-Development
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : SUHANI PANCHOLI
+
+INTERN ID : CT04DL1068
+
+DOMAIN : DATA ANALYTICS
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+---
 
 # 🌍 Global Terrorism Dashboard – Power BI Project
 
